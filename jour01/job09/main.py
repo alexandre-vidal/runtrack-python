@@ -12,7 +12,7 @@ stock = stock + 5
 print("Mise à jour du stock :")
 print(stock)
 
-x = input("Combien de produits souhaitez-vous acheter ?")
+x = input("Combien de produits souhaitez-vous acheter ? : ")
 
 x = int(x)
 
